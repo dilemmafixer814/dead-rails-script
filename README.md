@@ -56,12 +56,6 @@ Dead Rails Script is a high-performance automation tool designed for the popular
 
 ---
 
-## ❗ Disclaimer
-
-Use Dead Rails Script responsibly. It is designed for personal use only. We do not support cheating or violating game terms. Use at your own risk.
-
----
-
 ## 🙋 Support
 
 - Report issues on [GitHub Issues](https://github.com/your-repo/issues)  
